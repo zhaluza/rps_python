@@ -5,7 +5,7 @@
 print('Rock Paper Scissors time!')
 print('Player 1 goes first:')
 player1 = input().lower()
-print('NO CHEATING * 20')
+print('NO CHEATING\n\n' * 20)
 print('Player 2\'s turn:')
 player2 = input().lower()
 
